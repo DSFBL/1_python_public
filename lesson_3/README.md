@@ -18,7 +18,7 @@
 
 Если есть время и ресурс:
 
-3. [Цикл while](https://pythontutor.ru/lessons/while/) – решаем задачи
+3. [Цикл while](https://pythontutor.ru/lessons/while/) – решаем все задачи **до** "Числа Фибоначчи"
 4. [Строки](https://pythontutor.ru/lessons/str/) – решаем задачи
 
 ## Процесс работы над ДЗ
