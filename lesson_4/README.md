@@ -1,6 +1,6 @@
 # Урок 3
 
-- [__статья по циклам__](https://github.com/DSFBL/1_python_public/blob/main/lesson_3/2_loops.ipynb) Повторение про циклы c вебинара
+- [__статья по циклам__](https://github.com/DSFBL/1_python_public/blob/main/lesson_4/4_loops_class.ipynb) Повторение про циклы c вебинара
 
 - [__статья про строки__](https://github.com/DSFBL/1_python_public/blob/main/lesson_3/3_strings.ipynb) Статья про строки
 
