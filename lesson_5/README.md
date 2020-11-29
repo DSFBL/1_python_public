@@ -1,6 +1,7 @@
 # Урок 5
 
 - [__статья по словарям__](https://github.com/DSFBL/1_python_public/blob/main/lesson_5/4_dictionaries.ipynb) Статья про словари
+- [__материалы с вебинара__](https://github.com/DSFBL/1_python_public/blob/main/lesson_5/stream_29-11.ipynb) Стрим 29 ноября
 
 ## ДЗ-4
 
