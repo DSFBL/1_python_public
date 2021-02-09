@@ -9,4 +9,8 @@
 
 Путь 1: [Воспользоваться сервисом для скачки](https://minhaskamal.github.io/DownGit/#/home): просто перейдите по ссылке и вставьте ссылку на то, что хотите скачать. Сейчас это неделя 10: https://github.com/DSFBL/1_python_public/tree/main/lesson_10
 
-Путь 2: Скачать GithubDesktop [отсюда](https://desktop.github.com/). 
+Путь 2: Скачать GithubDesktop [отсюда](https://desktop.github.com/). Подробная инструкция по установке и использованию [вот тут](https://github.com/DSFBL/1_python_public/blob/main/%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F%20%D0%BF%D0%BE%20GitHub%20Desktop.pdf).
+
+## Домашнее задание
+
+ДЗ на эту неделю лежит в папке [HW-practice](https://github.com/DSFBL/1_python_public/tree/main/HW-practice). Проверить себя можно, отправив ответы в гугл-форму (ссылка есть на канале и внутри ноутбука с заданиями).
