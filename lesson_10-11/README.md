@@ -1,7 +1,8 @@
 # 10 неделя курса
 
-- [__материалы с вебинара по numpy__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_numpy.ipynb) 
-- [__материалы с вебинара по pandas__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_pandas.ipynb) 
+- [__материалы с вебинара 7 февраля по numpy__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_numpy.ipynb) 
+- [__материалы с вебинара 7 февраля по pandas__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_pandas.ipynb) 
+- [__материалы с вебинара 14 февраля <3 по pandas + консультация__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10-11/class_14-02.ipynb)
 - [__статья от нашего автора__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/10_numpy_pandas.ipynb) 
 - [__данные для статьи и вебинара__](https://raw.githubusercontent.com/DSFBL/1_python_public/main/lesson_10/titanic.csv) – нажмите ctrl+S, чтобы сохранить
 
