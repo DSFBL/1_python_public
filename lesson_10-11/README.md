@@ -1,4 +1,4 @@
-# 10 неделя курса
+# 10-11 недели курса
 
 - [__материалы с вебинара 7 февраля по numpy__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_numpy.ipynb) 
 - [__материалы с вебинара 7 февраля по pandas__](https://github.com/DSFBL/1_python_public/blob/main/lesson_10/class_07-02_pandas.ipynb) 
